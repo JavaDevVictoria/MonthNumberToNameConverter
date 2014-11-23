@@ -21,7 +21,7 @@ case "$1" in
    8) echo "August" ;;
    9) echo "September" ;;
    10) echo "October" ;;
-   11) echo "Nobember" ;;
+   11) echo "November" ;;
    12) echo "December" ;;
    *) echo "Error: No month matches the number you entered. Please pass an argument that is a number between 1 and 12 inclusive"  
       exit 2
